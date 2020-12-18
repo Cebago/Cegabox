@@ -1,24 +1,40 @@
-# securedBox
-<br>
+# Projet Annuel : Cegabox3000
 
-## Context:
-<br>
-This project is about the validation of our year 3 in ESGI
+## Objectifs :
 
-<br>
-<br>
+- Détecter les vulnérabilités
+- Détecter les outils de la *Blue Team*
+- Proposer une interface d'administration
+- Avoir une approche orientée black box
+- Démontrer la capacité d’un hacker à pirater le système de l’extérieur
+- Tester l’efficacité des outils de détection d’intrusion mis en place si tel est le cas, ainsi que la réactivité des experts techniques lors d’une attaque.
+- Comprendre et voir les réactions des collaborateurs (dans le cas du social engineering)
 
-## Objective:
-<br>
-Create differents codes in order to be able to monitor all the networkf's traffic
+## Public visé :
+- PME, TPE, etc.
+- RSSI
 
-<br>
-<br>
+## Modules :
+### 1. Pentest :
+  - nmap
+  - hydra
+  - vérification de certificats
+  - vérification d'intégrité (reverse, redirection)
+  - vérification de GPO
+  - vérification d'Azure Active Directory
+  - vérifications ciblées sur une ressource
 
-### Deployment:
+## 2. Antivirus :
+  - nothing here
 
-#### 1) Prerequisites: 
+### 4. Web :
+  - Dashboard global
+  - Base de données -> MySQL
+  - Gestion des utilisateurs (CRUD)
+  - Gestion des différents sites à tester (CRUD)
 
-#### 2) How to install
-
-#### 3) How to use this solution ?
+## A faire :
+- Montée en compétences sur des CTF
+- Réflexion autour de l'automatisation des scripts de détection
+- Détection IRL
+- Maquette Web et requêtage
