@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Cegabox
 
-You can use the [editor on GitHub](https://github.com/Cebago/Cegabox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the official documentation for the Cegabox. Any other documentation you find is a valueless one.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First of all, thank you for choosing us and welcome in the Cegabox adventure.
 
-### Markdown
+## Summary
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
