@@ -3,7 +3,7 @@
 ## Summary
 
 1. [**Project Presentation**](project.html)
-2. [How it's working](working.html)
+2. [How does it work ?](working.html)
 3. [Environment](env.html)
 4. [Frontend](front.html)
 5. [Backend](back.html)
