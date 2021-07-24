@@ -7,6 +7,7 @@
 3. [Environment](env.html)
 4. [Frontend](front.html)
 5. [Backend](back.html)
+6. [Electron](electron.html)
 
 ## Who are we ?
 
