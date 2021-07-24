@@ -21,3 +21,11 @@ All data displayed on the web interface comes from our [API](back.html) which ma
 First of all, to access the reports, you will need an account. To create it, go to the local website of your *Cegabox* and click on "Create an account".
 
 ![Cegabox Login](https://cebago.github.io/Cegabox/img/cegabox-login.png)
+
+Then, when your account is created, you could connect and see the dashboard with main informations on it. Good to know, your account always start with "Reader" privileges, if you want to change yours, contact the administrator or if you are the administrator, see our page [Administrate your *Cegabox*](admin.html).
+
+### Dashboard
+
+When you connect, you will always go to this page, it's the main page.
+
+![Cegabox Login](https://cebago.github.io/Cegabox/img/cegabox-dashboard.png)
