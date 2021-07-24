@@ -29,4 +29,10 @@ Then, when your account is created, you could connect and see the dashboard with
 
 When you connect, you will always go to this page, it's the main page.
 
-![Cegabox Login](https://cebago.github.io/Cegabox/img/cegabox-dashboard.png)
+![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard.png)
+
+In the right corner, you can see your account and view with which account you are currently connected.
+
+In the four little cards, you can see a resume of your network, your hosts and which are vulnerable and the same with the ports.
+
+![Cegabox Network](https://cebago.github.io/Cegabox/img/cegabox-network.png)
