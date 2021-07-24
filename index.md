@@ -11,3 +11,4 @@ First of all, thank you for choosing us and welcome in the Cegabox adventure.
 3. [Environment](env.html)
 4. [Frontend](front.html)
 5. [Backend](back.html)
+6. [Electron](electron.html)
