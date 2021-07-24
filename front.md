@@ -33,6 +33,8 @@ When you connect, you will always go to this page, it's the main page.
 
 In the right corner, you can see your account and view with which account you are currently connected.
 
-In the four little cards, you can see a resume of your network, your hosts and which are vulnerable and the same with the ports.
+#### Top cards
+
+In the four little top cards, you can see a resume of your network, your hosts and which are vulnerable and the same with the ports.
 
 ![Cegabox Network](https://cebago.github.io/Cegabox/img/cegabox-network.png)
