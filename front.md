@@ -6,6 +6,8 @@
 2. [How does it work ?](working.html)
 3. [Environment](env.html)
 4. [**Frontend**](front.html)
+   * [**Dashboard**](front.html)
+   * [Hosts](hosts.html)
 5. [Backend](back.html)
 6. [Electron](electron.html)
 
@@ -62,3 +64,6 @@ This section shows you the distributions of your vulnerabilities for all your re
 * Criticity **critical**: 16 points
 
 ![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-distribution.png)
+
+
+[Next Page](hosts.html)
