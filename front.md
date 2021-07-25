@@ -50,3 +50,15 @@ With this chart, you can see the trends of your vulnerabilities inside multiple 
 This section has the purpose to show you the difference between your two last reports. It will highlights you a colored difference which helps you to understand easily which type of vulnerabilities you have reduce, increase or do not change.
 
 ![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-differences.png)
+
+#### Vulnerability Distribution
+
+This section shows you the distributions of your vulnerabilities for all your reports. The reports are reverse order to make sure that the latest one is displayed on top. For each report, we have ponderate it by making this simple rule:
+
+* Criticity **none**: 1 point
+* Criticity **low**: 2 points
+* Criticity **medium**: 4 points
+* Criticity **high**: 8 points
+* Criticity **critical**: 16 points
+
+![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-distribution.png)
