@@ -33,12 +33,13 @@ Just under the OS section, you could find some links which refers to ports detec
 
 #### Contributor & Administrator
 
-If you have a "Reader" access or an "Administrator access", when you are on the hosts page, you could only see the list and all details for each host.
+If you have a "Reader" access or an "Administrator access", when you are on the hosts page, you could see the list and all details for each host.
 
 ![Cegabox Host Details](https://cebago.github.io/Cegabox/img/cegabox-host-details.png)
 
 Just under the OS section, you could find some links which refers to ports detected on host.
-Furthermore, you could also edit the saved hostname to identify clearly which host is it.
+
+   Furthermore, you could also edit the saved hostname to identify clearly which host is it.
 
 ![Cegabox Host Update](https://cebago.github.io/Cegabox/img/cegabox-host-update.png)
 
