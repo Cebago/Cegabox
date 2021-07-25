@@ -1,4 +1,4 @@
-# Front
+# Frontend
 
 ## Summary
 
@@ -10,6 +10,8 @@
    * [Hosts](hosts.html)
 5. [Backend](back.html)
 6. [Electron](electron.html)
+7. [Database](database.html)
+8. [Python](python.html)
 
 The front-end of this project consists in a web interface which users can use to access to thier vulnerabilities reports. They can also see on it all about their hosts, the open ports and, of course, all associated vulnerabilities.
 

@@ -8,6 +8,8 @@
 4. [Frontend](front.html)
 5. [Backend](back.html)
 6. [Electron](electron.html)
+7. [Database](database.html)
+8. [Python](python.html)
 
 ## Who are we ?
 
