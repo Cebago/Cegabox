@@ -24,3 +24,5 @@ This page lists all the ports detected in your network. You have a list that sho
 You can also open the details for the port to see all vulnerabilities which refer to it.
 
 ![Cegabox Port Details](https://cebago.github.io/Cegabox/img/cegabox-port-details.png)
+
+[Next Page](vulnerabilities.html)
