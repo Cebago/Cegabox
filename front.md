@@ -65,5 +65,4 @@ This section shows you the distributions of your vulnerabilities for all your re
 
 ![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-distribution.png)
 
-
 [Next Page](hosts.html)
