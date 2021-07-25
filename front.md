@@ -44,3 +44,9 @@ In the four little top cards, you can see a resume of your network, your hosts a
 With this chart, you can see the trends of your vulnerabilities inside multiple reports. The best design is a downing one which means you have less and less vulnerabilities.
 
 ![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-chart.png)
+
+#### Differences
+
+This section has the purpose to show you the difference between your two last reports. It will highlights you a colored difference which helps you to understand easily which type of vulnerabilities you have reduce, increase or do not change.
+
+![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-differences.png)
