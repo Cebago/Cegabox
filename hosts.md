@@ -40,3 +40,5 @@ Just under the OS section, you could find some links which refers to ports detec
 Furthermore, you could also edit the saved hostname to identify clearly which host is it.
 
 ![Cegabox Host Update](https://cebago.github.io/Cegabox/img/cegabox-host-update.png)
+
+[Next Page](ports.html)
