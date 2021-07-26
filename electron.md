@@ -11,13 +11,13 @@
 7. [Database](database.html)
 8. [Python](python.html)
 
-The front-end of this project consists in a web interface which users can use to access to thier vulnerabilities reports. They can also see on it all about their hosts, the open ports and, of course, all associated vulnerabilities.
+The Electron interface is loaded on boot of the Raspberry Pi. 
 
-To make this interface, we did only use HTML, JS and CSS files. All dependencies like stylesheets, source of JS libraries are downloaded locally to make sure that if the *Cegabox* is offline you can still use a nice interface.
+## How to use the Electron interface ?
 
-All data displayed on the web interface comes from our [API](back.html) which make all requests to the database.
-
-## How to use the web interface ?
+The Electron interface is not closable. You will have the choice between two buttons:
+* A Simple Scan: it permit you to do a scan between 15 minutes and 1h30.
+* A Complexe Scan: it permit you to test your network completely with all the ports and the IP possible.
 
 ### Create an account
 
