@@ -10,3 +10,15 @@
 6. [Electron](electron.html)
 7. [**Database**](database.html)
 8. [Python](python.html)
+
+### Tables
+
+The *Cegabox* database is created upon those models:
+
+#### MCD
+
+![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-MCD.png)
+
+#### MLD
+
+![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-MLD.png)
