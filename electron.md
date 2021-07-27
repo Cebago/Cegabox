@@ -16,6 +16,7 @@ The Electron interface is loaded on boot of the Raspberry Pi.
 ## How to use the Electron interface ?
 
 The Electron interface is not closable. You will have the choice between two buttons:
+
 * A Simple Scan: it permit you to do a scan between 15 minutes and 1h30.
 * A Complexe Scan: it permit you to test your network completely with all the ports and the IP possible.
 
