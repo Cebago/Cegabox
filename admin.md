@@ -35,3 +35,7 @@ If you want to change someone's role, you have to click on the button to edit hi
 Also on the users page, you can choose to assign a specific report for a user and allow him to access it.
 
 ![Cegabox Ports](https://cebago.github.io/Cegabox/img/cegabox-share.png)
+
+### Extract database
+
+When you are administrator, you could download a JSON file containing the database. This export could be usefull if you have an account on the *Cegabox Analyser* because it will allows you to continue to work on your infrastructure whithout having a *Cegabox* on your network.
