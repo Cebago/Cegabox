@@ -15,8 +15,8 @@
 
 The first time your *Cegabox* boot, you should login whith the following credentials:
 
-* email: admin@admin.admin
-* password: admin
+* **email**: `admin@admin.admin`
+* **password**: `admin`
 
 WARNING ! You should change the password just after the first boot to be sure to keep control of the *Cegabox*
 
