@@ -11,7 +11,7 @@
 7. [Database](database.html)
 8. [Python](python.html)
 
-The Electron interface is loaded on boot of the Raspberry Pi. 
+The Electron interface is loaded on boot of the Raspberry Pi.
 
 ## How to use the Electron interface ?
 
