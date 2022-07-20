@@ -42,15 +42,15 @@ In the right corner, you can see your account and view with which account you ar
 
 #### Top cards
 
-In the four little top cards, you can see a resume of your network, your hosts and which are vulnerable and the same with the ports.
+In the four little top cards, you can see a resume of what have been found on your network, with the number of hosts, services, ports and vulnerabilities.
 
 ![Cegabox Network](https://cebago.github.io/Cegabox/img/cegabox-network.png)
 
-#### Chart
+#### Evolution
 
 With this chart, you can see the trends of your vulnerabilities inside multiple reports. The best design is a downing one which means you have less and less vulnerabilities.
 
-![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-chart.png)
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-evolution.png)
 
 #### Differences
 
