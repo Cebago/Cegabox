@@ -23,6 +23,6 @@ We have choosen this project because it's important to us to work in cybersecuri
 
 - Scan network
 - Detect different types of vulnerabilities:
-  - Network vulnerabilities - like some uncrypted communications
-  - Hosts vulnerabilities - like old OS systems
-  - Ports vulnerabilities - like use of non-secure protocoles such as ftp, smb, ...
+  - Bad versions of services
+  - Known services vulnerabilities
+  ...

@@ -17,4 +17,4 @@ We separate all of our possibilities in different part of our solution. For exam
 
 For our scripting part, we decided to use python because of it's facility of use. We have implemented some scripts which scan the network and create by the API all the encountered devices.
 
-Finally, we also use some others services, which allows us to get more data about vulnerabilities we found.
+We also use other services like Electron to make interfaces on our hardware solution.

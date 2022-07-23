@@ -16,9 +16,9 @@
 7. [Database](database.html)
 8. [Python](python.html)
 
-The front-end of this project consists in a web interface which users can use to access to thier vulnerabilities reports. They can also see on it all about their hosts, the open ports and, of course, all associated vulnerabilities.
+The front-end of this project consists in a web interface which users can use to access to thier vulnerabilities reports. They can also see on it all about their hosts, the listening services and open ports and, of course, all associated vulnerabilities.
 
-To make this interface, we did only use HTML, JS and CSS files. All dependencies like stylesheets, source of JS libraries are downloaded locally to make sure that if the *Cegabox* is offline you can still use a nice interface.
+To make this interface, we did only use HTML, JS and CSS files. All dependencies like stylesheets, source of JS libraries are downloaded locally to make sure that if the **Cegabox** is offline you can still use a nice interface.
 
 All data displayed on the web interface comes from our [API](back.html) which make all requests to the database.
 
@@ -26,11 +26,11 @@ All data displayed on the web interface comes from our [API](back.html) which ma
 
 ### Create an account
 
-First of all, to access the reports, you will need an account. To create it, go to the local website of your *Cegabox* and click on "Create an account".
+First of all, to access the reports, you will need an account. To create it, go to the local website of your **Cegabox** and click on "Create an account".
 
 ![Cegabox Login](https://cebago.github.io/Cegabox/img/cegabox-login.png)
 
-Then, when your account is created, you could connect and see the dashboard with main informations on it. Good to know, your account always start with "Reader" privileges, if you want to change yours, contact the administrator or if you are the administrator, see our page [Administrate your *Cegabox*](admin.html).
+Then, when your account is created, you could connect and see the dashboard with main informations on it. Good to know, your account always start with "Reader" privileges, if you want to change yours, contact the administrator or if you are the administrator, see our page [Administrate your **Cegabox**](admin.html).
 
 ### Dashboard
 
