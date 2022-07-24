@@ -57,3 +57,5 @@ In this section, you could see all services on which the vulnerability has been 
 In this section, you could see all hosts on which the vulnerability has been discovered.
 
 ![Cegabox Vulnerability Hosts](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-hosts.png)
+
+[Next Page](vulnerabilities.html)
