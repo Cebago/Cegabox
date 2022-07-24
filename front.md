@@ -36,7 +36,8 @@ Then, when your account is created, you could connect and see the dashboard with
 
 When you connect, you will always go to this page, it's the main page.
 
-![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard.png)
+![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard-1.png)
+![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard-2.png)
 
 In the right corner, you can see your account and view with which account you are currently connected.
 
@@ -51,6 +52,60 @@ In the four little top cards, you can see a resume of what have been found on yo
 With this chart, you can see the trends of your vulnerabilities inside multiple reports. The best design is a downing one which means you have less and less vulnerabilities.
 
 ![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-evolution.png)
+
+#### Repartitions
+
+##### Attack Vector
+
+With this chart, you should see the repartition within the 4 main attack vectors, which are:
+
+* Network
+* Adjacent Network
+* Local
+* Physical
+
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-vector.png)
+
+##### Attack Complexity
+
+With this chart, you should see the repartition for the attack complexity, which could be:
+
+* High
+* Low
+
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+
+##### Impact Availability
+
+With this chart, you should see the repartition for the availability impact, which could be:
+
+* High
+* Low
+* None
+
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+
+##### Impact Confidentiality
+
+With this chart, you should see the repartition for the attack complexity, which could be:
+
+* High
+* Low
+* None
+
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+
+##### Impact Integrity
+
+With this chart, you should see the repartition for the attack complexity, which could be:
+
+* High
+* Low
+* None
+
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+
+##### Vulnerabilities
 
 #### Differences
 
