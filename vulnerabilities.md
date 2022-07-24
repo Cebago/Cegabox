@@ -8,7 +8,7 @@
 4. [**Frontend**](front.html)
    * [Dashboard](front.html)
    * [Hosts](hosts.html)
-   * [Ports](ports.html)
+   * [Services](services.html)
    * [**Vulnerabilities**](vulnerabilities.html)
    * [Reports](reports.html)
 5. [Backend](back.html)
