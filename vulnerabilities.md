@@ -18,10 +18,42 @@
 
 ### List of all vulnerabilities
 
-This page lists all the vulnerabilities detected in your network. You have a list that shows you multiple informations about each vulnerability of your network like the name, the date, the criticity and the report to which it belongs.
+This page lists all the vulnerabilities detected in your network. You have a list that shows you multiple informations about each vulnerability of your network like the name, the date, the criticity and many usefull ones.
 
 ![Cegabox Vulnerabilities](https://cebago.github.io/Cegabox/img/cegabox-vulnerabilities.png)
 
-You can also open the details for the vulnerability in order to see all the information you have to know, such as, the CVE reference, the EDB-ID and its url, the impact on the availability, the integrity and the confidentiality and the attack vector and is complexity.
+### Vulnerability Details
 
-![Cegabox VulnerabilityDetails](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-details.png)
+The detailled view for a service is splitted into 5 sections.
+
+![Cegabox Vulnerability Details](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-details.png)
+
+#### 1. Vulnerability Informations
+
+In this section, you could see the main informations for this vulnerability, such as the title, the CVSS and the criticity, the vector, the published and last update dates and some links which will help you to fully understand the vulnerability.
+
+![Cegabox Vulnerability Informations](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-informations.png)
+
+#### 2. Exploitability Metrics
+
+In this section, you could see all informations about the exploitability of this vulnerability.
+
+![Cegabox Vulnerability Exploitability](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-exploitability.png)
+
+#### 3. Impact Metrics
+
+In this section, you could see all informations about the impact of this vulnerability.
+
+![Cegabox Vulnerability Impact](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-impact.png)
+
+#### 4. List of services
+
+In this section, you could see all services on which the vulnerability has been discovered.
+
+![Cegabox Vulnerability Services](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-services.png)
+
+#### 5. List of Hosts
+
+In this section, you could see all hosts on which the vulnerability has been discovered.
+
+![Cegabox Vulnerability Hosts](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-hosts.png)

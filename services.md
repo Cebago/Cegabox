@@ -34,13 +34,13 @@ In this section, you could see the main informations for this service, such as t
 
 ![Cegabox Service Informations](https://cebago.github.io/Cegabox/img/cegabox-service-informations.png)
 
-#### 2. List of Hosts
+#### 2. List of hosts
 
 In this section, you would find all the hosts which are running this service.
 
 ![Cegabox List of hosts](https://cebago.github.io/Cegabox/img/cegabox-service-hosts.png)
 
-#### 3. List of Vulnerabilities
+#### 3. List of vulnerabilities
 
 In this section, you would find all the vulnerabilities which have been detected on the service.
 
