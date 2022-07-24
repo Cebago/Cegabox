@@ -64,7 +64,7 @@ With this chart, you should see the repartition within the 4 main attack vectors
 * Local
 * Physical
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-vector.png)
+![Cegabox Attack Vector](https://cebago.github.io/Cegabox/img/cegabox-attack-vector.png)
 
 ##### Attack Complexity
 
@@ -73,7 +73,7 @@ With this chart, you should see the repartition for the attack complexity, which
 * High
 * Low
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+![Cegabox Attack Complexity](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
 
 ##### Impact Availability
 
@@ -83,7 +83,7 @@ With this chart, you should see the repartition for the availability impact, whi
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-availability.png)
+![Cegabox Impact Availability](https://cebago.github.io/Cegabox/img/cegabox-impact-availability.png)
 
 ##### Impact Confidentiality
 
@@ -93,7 +93,7 @@ With this chart, you should see the repartition for the confidentiality impact, 
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-confidentiality.png)
+![Cegabox Impact Confidentiality](https://cebago.github.io/Cegabox/img/cegabox-impact-confidentiality.png)
 
 ##### Impact Integrity
 
@@ -103,9 +103,19 @@ With this chart, you should see the repartition for the integrity impact, which 
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-integrity.png)
+![Cegabox Impact Integrity](https://cebago.github.io/Cegabox/img/cegabox-impact-integrity.png)
 
 ##### Vulnerabilities
+
+With this chart, you could select all reports on which you want to see a vulnerability criticity repartition.
+
+![Cegabox With this chart, you should see the repartition for the integrity impact, which could be:
+
+* High
+* Low
+* None
+
+![Cegabox Vulnerabilities Repartition](https://cebago.github.io/Cegabox/img/cegabox-vulnerabilities-repartition.png)
 
 #### Differences
 
@@ -117,11 +127,11 @@ This section has the purpose to show you the difference between your two last re
 
 This section shows you the distributions of your vulnerabilities for all your reports. The reports are reverse order to make sure that the latest one is displayed on top. For each report, we have ponderate it by making this simple rule:
 
-* Criticity **none**: 1 point
-* Criticity **low**: 2 points
-* Criticity **medium**: 4 points
-* Criticity **high**: 8 points
 * Criticity **critical**: 16 points
+* Criticity **high**: 8 points
+* Criticity **medium**: 4 points
+* Criticity **low**: 2 points
+* Criticity **none**: 1 point
 
 ![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-distribution.png)
 
