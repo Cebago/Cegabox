@@ -56,10 +56,28 @@ In the host informations section, you will find the detected OS and the vulnerab
 
 #### 3. Scan Informations
 
+In the scan informations section, you will find the first and last date of scan.
+
+![Cegabox Scan Informations](https://cebago.github.io/Cegabox/img/cegabox-scan-informations.png)
+
 #### 4. List of services
+
+In the list of services, you will find all scanned and detected services running on the host.
+
+![Cegabox List of Services](https://cebago.github.io/Cegabox/img/cegabox-host-services.png)
 
 #### 5. List of ports
 
+In the list of ports, you will find all ports which are opened and running for services.
+
+![Cegabox List of Ports](https://cebago.github.io/Cegabox/img/cegabox-host-ports.png)
+
+
 #### 6. List of vulnerabilities
+
+In the list of services, you will find all found vulnerabilities for the host.
+
+![Cegabox List of Vulnerabilities](https://cebago.github.io/Cegabox/img/cegabox-host-vulnerabilities.png)
+
 
 [Next Page](ports.html)
