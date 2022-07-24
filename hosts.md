@@ -72,12 +72,10 @@ In the list of ports, you will find all ports which are opened and running for s
 
 ![Cegabox List of Ports](https://cebago.github.io/Cegabox/img/cegabox-host-ports.png)
 
-
 #### 6. List of vulnerabilities
 
 In the list of services, you will find all found vulnerabilities for the host.
 
 ![Cegabox List of Vulnerabilities](https://cebago.github.io/Cegabox/img/cegabox-host-vulnerabilities.png)
-
 
 [Next Page](ports.html)
