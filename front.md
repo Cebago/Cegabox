@@ -83,27 +83,27 @@ With this chart, you should see the repartition for the availability impact, whi
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-availability.png)
 
 ##### Impact Confidentiality
 
-With this chart, you should see the repartition for the attack complexity, which could be:
+With this chart, you should see the repartition for the confidentiality impact, which could be:
 
 * High
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-confidentiality.png)
 
 ##### Impact Integrity
 
-With this chart, you should see the repartition for the attack complexity, which could be:
+With this chart, you should see the repartition for the integrity impact, which could be:
 
 * High
 * Low
 * None
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-impact-integrity.png)
 
 ##### Vulnerabilities
 
