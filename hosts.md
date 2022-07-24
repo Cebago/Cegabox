@@ -42,6 +42,8 @@ Furthermore, you could also edit the saved hostname to identify clearly which ho
 
 The details page for an host is splitted into 6 sections.
 
+![Cegabox Host](https://cebago.github.io/Cegabox/img/cegabox-host.png)
+
 #### 1. Network Informations
 
 In the network informations section, you will find the IP address and the MAC address for the host.
