@@ -12,7 +12,7 @@
 8. [**Scanner**](scanner.html)
 
 
-## How our Scanner is build ?
+## How our Scanner is built ?
 
 ### Scan hosts
 In order to detect hosts, services and vulnerabilities on the network, we use this wonderful toolbox that is **nmap**.
