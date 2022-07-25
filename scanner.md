@@ -14,14 +14,16 @@
 
 ## How our Scanner is build ?
 
-### Scan host
+### Scan hosts
 In order to detect hosts, services and vulnerabilities on the network, we use this wonderful toolbox that is **nmap**.
-To allow users to do several types of scans, we play with different parameters, like the number of ports on each host that will be scanned. It's determined through a script parameter. 
+To allow users to do several types of scans, we play with different parameters, like the number of ports on each host that will be scanned. It's determined through a script parameter.
 
+### Scan services
+After the recovery of the hosts, the services are also recovered, as well as the associated versions. Services are detected with header of port requests.
 
 ### Vulnerabilities discover
 
-In complement, we use **Vulners** to match services & versions to known vulnerabilities, giving us CVE's mettric.  
+In complement, we use [Vulners](https://vulners.com/) to match services & versions to known vulnerabilities, giving us CVE's mettric.  
 
 Export is made on XML file.
 
@@ -33,4 +35,6 @@ With use a [Github Project](https://github.com/olbat/nvdcve.git) that is automat
 The main adventage of this workflow is that it is fast, efficient and accurate. We get the maximum amount of information in the shortest possible time.
 
 
-### 
+### Send data to API
+All data collected are send to the backoffice [API](back.html).
+
