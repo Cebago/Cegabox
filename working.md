@@ -9,7 +9,7 @@
 5. [Backend](back.html)
 6. [Electron](electron.html)
 7. [Database](database.html)
-8. [Python](python.html)
+8. [Scanner](scanner.html)
 
 For this project, because we want it to be as compatible as possible with a lot of architecture, we have decided to use docker containers.
 

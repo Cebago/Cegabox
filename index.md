@@ -13,4 +13,4 @@ First of all, thank you for choosing us and welcome in the Cegabox adventure.
 5. [Backend](back.html)
 6. [Electron](electron.html)
 7. [Database](database.html)
-8. [Python](python.html)
+8. [Scanner](scanner.html)
