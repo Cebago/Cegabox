@@ -5,7 +5,7 @@
 - Détecter les vulnérabilités
 - Proposer une interface d'administration
 - Avoir une approche orientée black box
-- Tester l’efficacité des outils de détection d’intrusion mis en place si tel est le cas, ainsi que la réactivité des experts techniques lors d’une attaque.
+
 
 ## Public visé :
 - PME, TPE, etc.
