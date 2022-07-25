@@ -19,5 +19,13 @@ The Electron interface is not closable. You will have the choice between four bu
 
 * A Simple Scan: it permit you to do a scan between 5 and 10 minutes with a top port 1000.
 * A Complexe Scan: it permit you to test your network completely with all the ports and the IP possible.
-* Quit : it shutdown the Raspberry Pi as you only access is this interface
+* Quit : it shutdown the Raspberry Pi as you have only access is this interface
 * Reboot : it reboot the Raspberry Pi
+
+This is our interface.
+
+[screen]
+
+We release a package thanks to electron-packager. It's build in arm64 with a linux plateform.
+
+The Raspberry Pi turn on Ubuntu.
