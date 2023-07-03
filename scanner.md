@@ -80,3 +80,35 @@ The smb-vuln-ms17-010 script attempts to detect if a Microsoft SMBv1 server is v
 ### ftp-vuln-cve2010-4221
 
 The ftp-vuln-cve2010-4221 script checks for a stack-based buffer overflow in the ProFTPD server, version between 1.3.2rc3 and 1.3.3b. By sending a large number of TELNET_IAC escape sequence, the proftpd process miscalculates the buffer length, and a remote attacker will be able to corrupt the stack and execute arbitrary code within the context of the proftpd process .
+
+## Technical example
+
+### vulns module
+
+If the vulns module has been launched, we entered in the next condition :
+
+![Cegabox Module](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-module-vulns.png)
+
+If the CVE-Tab has at the minimum one CVE, we link that CVE with de NVD Nist database to get the CVE file that has all the informations.
+Once opened, we create our variable that will contain the Vulnerability class and we load into another variable our json file.
+
+Then, we will launch our function completeVuln which parse all the information found on the json file.
+
+Then we create the link between the host, the service (if it exist) and the vulnerability (if it exist) to send that to the API.
+
+### vulnerability class
+
+This is the Vulnerability class.
+
+![Cegabox Class](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-class.png)
+
+We initialize the variable with None.
+
+![Cegabox Class](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-class-savevuln.png)
+
+Then we enter in the saveVuln function.
+
+First, we search if the vulnerability exist on our database.
+If it exist, we will not save it, because we don't want duplicate data.
+
+If it doesn't exist, we will insert all the informations that we have collected.
