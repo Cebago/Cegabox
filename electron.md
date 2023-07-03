@@ -15,10 +15,10 @@ The Electron interface is loaded on boot of the Raspberry Pi.
 
 ## How to use the Electron interface ?
 
-The Electron interface is not closable. You will have the choice between four buttons:
+The Electron interface is not closable. You will see the IP address that permit you to login on the web interface.
 
-* A Simple Scan: it permit you to do a scan between 5 and 10 minutes with a top port 1000.
-* A Complexe Scan: it permit you to test your network completely with all the ports and the IP possible.
+You have also two choice on the interface :
+
 * Quit : it shutdown the Raspberry Pi as you have only access is this interface
 * Reboot : it reboot the Raspberry Pi
 
@@ -28,4 +28,4 @@ This is our interface.
 
 We release a package thanks to electron-packager. It's build in arm64 with a linux plateform.
 
-The Raspberry Pi turn on Ubuntu.
+The Raspberry Pi turn on an Ubuntu Desktop 22.04.
