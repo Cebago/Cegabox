@@ -81,4 +81,4 @@ In the list of services, you will find all found vulnerabilities for the host.
 
 ![Cegabox List of Vulnerabilities](https://cebago.github.io/Cegabox/img/cegabox-host-vulnerabilities.png)
 
-[Next Page](ports.html)
+[Next Page](services.html)
