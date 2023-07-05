@@ -7,6 +7,7 @@
 3. [Environment](env.html)
 4. [**Frontend**](front.html)
    * [Dashboard](front.html)
+   * [Scan] (scan.html)
    * [Hosts](hosts.html)
    * [Services](services.html)
    * [**Vulnerabilities**](vulnerabilities.html)
