@@ -13,6 +13,8 @@
    * [Vulnerabilities](vulnerabilities.html)
    * [**Rules**](rules.html)
    * [Reports](reports.html)
+   * [Certificates](certificates.html)
+   * [Templates](template.html)
 5. [Backend](back.html)
 6. [Electron](electron.html)
 7. [Database](database.html)
