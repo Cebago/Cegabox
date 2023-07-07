@@ -52,8 +52,8 @@ In this section, you would find all the vulnerabilities which have been detected
 
 #### 4. List of certificates
 
-In this section, you would find all the vulnerabilities which have been detected on the service.
+In this section, you would find all the certificates which have been detected on the service.
 
-![Cegabox List of Vulnerabilities](./img/cegabox-service-certificates.png)
+![Cegabox List of Certificates](./img/cegabox-service-certificates.png)
 
 [Next Page](vulnerabilities.html)

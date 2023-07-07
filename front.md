@@ -137,6 +137,6 @@ This section shows you the distributions of your vulnerabilities for all your re
 * Criticity **low**: 2 points
 * Criticity **none**: 1 point
 
-![Cegabox Chart](./img/cegabox-distribution.png)
+![Cegabox Distribution](./img/cegabox-distribution.png)
 
 [Next Page](scan.html)
