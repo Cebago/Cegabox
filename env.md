@@ -11,14 +11,18 @@
 7. [Database](database.html)
 8. [Scanner](scanner.html)
 
+### Project filesystem
+
 For this project, you can find multiples services hosted on the host or inside some docker containers.
 
 We have decided to separate our project infrastructure accordingly to the image below.
 
 ![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-infra.svg)
 
-In order to help our customers, we have an interface designed in Electron to make our Cegabox controlable directly. From this interface, you can run a simple network scan or a complete one. Both are diferent but are very important in their scope:
+In order to help our customers, we have an interface designed in Electron to make our Cegabox controlable directly. From this interface, you can run get the IP address of your box to be sure to access the web administration interface.
 
-1) The simple scan is the fastest one and permit to have a reminder of the infrastructure reponding to ping requests and the main ports opened on the scanned hosts.
+### Flow chart
 
-2) The complete scan is a longer scan than the simple one. It runs a very broad scan which can find all hosts and ports on your networks but in a really long time.
+The following flow chart represents how the containers are connected over internal networks.
+
+![Cegabox-Flow-Chart](https://cebago.github.io/Cegabox/img/cegabox-flow-chart.svg)
