@@ -32,7 +32,7 @@ All data displayed on the web interface comes from our [API](back.html) which ma
 
 First of all, to access the reports, you will need an account. To create it, go to the local website of your **Cegabox** and click on "Create an account".
 
-![Cegabox Login](https://cebago.github.io/Cegabox/img/cegabox-login.png)
+![Cegabox Login](./img/cegabox-login.png)
 
 Then, when your account is created, you could connect and see the dashboard with main informations on it. Good to know, your account always start with "Reader" privileges, if you want to change yours, contact the administrator or if you are the administrator, see our page [Administrate your **Cegabox**](admin.html).
 
@@ -40,8 +40,8 @@ Then, when your account is created, you could connect and see the dashboard with
 
 When you connect, you will always go to this page, it's the main page.
 
-![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard-1.png)
-![Cegabox Dashboard](https://cebago.github.io/Cegabox/img/cegabox-dashboard-2.png)
+![Cegabox Dashboard](./img/cegabox-dashboard-1.png)
+![Cegabox Dashboard](./img/cegabox-dashboard-2.png)
 
 In the right corner, you can see your account and view with which account you are currently connected.
 
@@ -49,13 +49,13 @@ In the right corner, you can see your account and view with which account you ar
 
 In the four little top cards, you can see a resume of what have been found on your network, with the number of hosts, services, ports and vulnerabilities.
 
-![Cegabox Network](https://cebago.github.io/Cegabox/img/cegabox-network.png)
+![Cegabox Network](./img/cegabox-network.png)
 
 #### Evolution
 
 With this chart, you can see the trends of your vulnerabilities inside multiple reports. The best design is a downing one which means you have less and less vulnerabilities.
 
-![Cegabox Evolution](https://cebago.github.io/Cegabox/img/cegabox-evolution.png)
+![Cegabox Evolution](./img/cegabox-evolution.png)
 
 #### Repartitions
 
@@ -68,7 +68,7 @@ With this chart, you should see the repartition within the 4 main attack vectors
 * Local
 * Physical
 
-![Cegabox Attack Vector](https://cebago.github.io/Cegabox/img/cegabox-attack-vector.png)
+![Cegabox Attack Vector](./img/cegabox-attack-vector.png)
 
 ##### Attack Complexity
 
@@ -77,7 +77,7 @@ With this chart, you should see the repartition for the attack complexity, which
 * High
 * Low
 
-![Cegabox Attack Complexity](https://cebago.github.io/Cegabox/img/cegabox-attack-complexity.png)
+![Cegabox Attack Complexity](./img/cegabox-attack-complexity.png)
 
 ##### Impact Availability
 
@@ -87,7 +87,7 @@ With this chart, you should see the repartition for the availability impact, whi
 * Low
 * None
 
-![Cegabox Impact Availability](https://cebago.github.io/Cegabox/img/cegabox-impact-availability.png)
+![Cegabox Impact Availability](./img/cegabox-impact-availability.png)
 
 ##### Impact Confidentiality
 
@@ -97,7 +97,7 @@ With this chart, you should see the repartition for the confidentiality impact, 
 * Low
 * None
 
-![Cegabox Impact Confidentiality](https://cebago.github.io/Cegabox/img/cegabox-impact-confidentiality.png)
+![Cegabox Impact Confidentiality](./img/cegabox-impact-confidentiality.png)
 
 ##### Impact Integrity
 
@@ -107,7 +107,7 @@ With this chart, you should see the repartition for the integrity impact, which 
 * Low
 * None
 
-![Cegabox Impact Integrity](https://cebago.github.io/Cegabox/img/cegabox-impact-integrity.png)
+![Cegabox Impact Integrity](./img/cegabox-impact-integrity.png)
 
 ##### Vulnerabilities
 
@@ -119,13 +119,13 @@ With this chart, you could select all reports on which you want to see a vulnera
 * Low
 * None
 
-![Cegabox Vulnerabilities Repartition](https://cebago.github.io/Cegabox/img/cegabox-vulnerabilities-repartition.png)
+![Cegabox Vulnerabilities Repartition](./img/cegabox-vulnerabilities-repartition.png)
 
 #### Differences
 
 This section has the purpose to show you the difference between your two last reports. It will highlights you a colored difference which helps you to understand easily which type of vulnerabilities you have reduce, increase or do not change.
 
-![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-differences.png)
+![Cegabox Chart](./img/cegabox-differences.png)
 
 #### Vulnerability Distribution
 
@@ -137,6 +137,6 @@ This section shows you the distributions of your vulnerabilities for all your re
 * Criticity **low**: 2 points
 * Criticity **none**: 1 point
 
-![Cegabox Chart](https://cebago.github.io/Cegabox/img/cegabox-distribution.png)
+![Cegabox Chart](./img/cegabox-distribution.png)
 
 [Next Page](scan.html)
