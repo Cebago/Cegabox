@@ -54,4 +54,6 @@ You can choose the temporisation of your scan from paranoid to insane.
 And the big parts it's that you can select the module of you template.
 
 
+### Modify templates
 
+You can only modify your templates and not theses by default.
