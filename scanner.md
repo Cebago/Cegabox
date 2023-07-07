@@ -11,9 +11,7 @@
 7. [Database](database.html)
 8. [**Scanner**](scanner.html)
 
-
 # How our Scanner is built ?
-
 
 ## Module parts
 

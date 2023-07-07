@@ -13,11 +13,9 @@
 
 ## Who are we ?
 
-[@batmine3](https://github.com/batmine3), [@snatchie](https://github.com/snatchie) & 
-[@Pranksous](https://github.com/Pranksous), three students in cybersecurity at ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
+[@batmine3](https://github.com/batmine3), [@snatchie](https://github.com/snatchie) & [@Pranksous](https://github.com/Pranksous), three students in cybersecurity at ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
 
 ## Why this project?
-
 
 We think it's important to give all businesses access to the possibility of securing their infrastructure. That's why we've built a complete, turnkey solution, including an extensive list of features.
 

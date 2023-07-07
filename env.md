@@ -27,17 +27,17 @@ The following network diagram represents how the containers are connected over i
 
 ![Cegabox-Flow-Chart](https://cebago.github.io/Cegabox/img/cegabox-flow-chart.svg)
 
-
 ### Used technologies
 
 To complete this project, we used some commons tools and technologies :
+
 - Docker 24 & docker compose
 - Nuclei 2.9.7
 - Nmap 7.94
 - PostgreSQL 14.3
 - NVD Nist Repositories
 - Python 3
-- PHP 8
+- PHP:8.1
 - JS/Ajax/HTML
 - Raspberry PI 4
 - Nginx:1.22
