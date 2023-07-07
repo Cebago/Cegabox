@@ -15,7 +15,7 @@ For this project, you can find multiples services hosted on the host or inside s
 
 We have decided to separate our project infrastructure accordingly to the image below.
 
-![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-infra.png)
+![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-infra.svg)
 
 In order to help our customers, we have an interface designed in Electron to make our Cegabox controlable directly. From this interface, you can run a simple network scan or a complete one. Both are diferent but are very important in their scope:
 
