@@ -14,7 +14,7 @@
 ## Who are we ?
 
 [@batmine3](https://github.com/batmine3), [@snatchie](https://github.com/snatchie) & 
-[@Pranksous](https://github.com/Pranksous), three strudents 3 students in cybersecurity in ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
+[@Pranksous](https://github.com/Pranksous), three students in cybersecurity at ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
 
 ## Why this project?
 
@@ -23,10 +23,8 @@ We think it's important to give all businesses access to the possibility of secu
 
 ## Features ?
 
+Cegabox is an tool built-in a Raspberry PI, that perform vulnerability scanner. A web interface allow to manages scan, users, templates, reports...
+
 ![features](/img/cegabox-features.png)
-- 
-- Scan network
-- Detect different types of vulnerabilities:
-  - Bad versions of services
-  - Known services vulnerabilities
-  ...
+
+For more information, dig into summary section to find details about features.
