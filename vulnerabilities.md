@@ -68,4 +68,4 @@ In this section, you could see all certificates on which the vulnerability has b
 
 ![Cegabox Vulnerability Certificates](./img/cegabox-vulnerability-certificates.png)
 
-[Next Page](vulnerabilities.html)
+[Next Page](rules.html)

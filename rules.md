@@ -24,7 +24,7 @@
 
 This page lists all the rules created for triggering alerts. You have a list that shows you multiple informations about each vulnerability of your network like the name, the date, the criticity and many usefull ones.
 
-![Cegabox Rules](https://cebago.github.io/Cegabox/img/cegabox-rules.png)
+![Cegabox Rules](./img/cegabox-rules.png)
 
 ### Rule Creation
 
@@ -35,3 +35,11 @@ When you click on the create button, you could choose between 3 rules types:
 * Vulnerability
 
 For the both lasts, you could create your rule basing on a regex or a specific service/vulnerability.
+
+### Rules Exploitation
+
+For each matching rule, the line containing either the host, service or the vulnerability is higlighted with a red line.
+
+![Cegabox Matching Rules](./img/cegabox-matching-rules.png)
+
+[Next Page](reports.html)
