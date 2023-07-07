@@ -79,3 +79,5 @@ In this section, you will find the list of all hosts detected on your infrastruc
 In this section, you will find the list of all ports detected on your infrastructure.
 
 ![Cegabox Reports list ports](./img/cegabox-reports-listPorts.png)
+
+[Next Page](certificates.html)
