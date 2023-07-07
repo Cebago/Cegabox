@@ -20,7 +20,7 @@ The first time your *Cegabox* boot, you should login whith the following credent
 
 WARNING ! You should change the password just after the first boot to be sure to keep control of the *Cegabox*
 
-![Cegabox Password](https://cebago.github.io/Cegabox/img/cegabox-password.png)
+![Cegabox Password](./img/cegabox-password.png)
 
 ### Give rigths to users
 
@@ -28,10 +28,10 @@ When you go to the users page, you will see the list of all users who have acces
 
 If you want to change someone's role, you have to click on the button to edit his access and then, choose the correct role you want to assign.
 
-![Cegabox Ports](https://cebago.github.io/Cegabox/img/cegabox-roles.png)
+![Cegabox Ports](./img/cegabox-roles.png)
 
 ### Share reports
 
 Also on the users page, you can choose to assign a specific report for a user and allow him to access it.
 
-![Cegabox Ports](https://cebago.github.io/Cegabox/img/cegabox-share.png)
+![Cegabox Ports](./img/cegabox-share.png)

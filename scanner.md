@@ -19,7 +19,7 @@ To know what kind of scanner to launch, we have a module system.
 
 According to the user's choice, we enter into a module.
 
-![Cegabox Module](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-module.png)
+![Cegabox Module](./img/cegabox-vulnerability-module.png)
 
 If the user select the certificate discovery, so the ssl-cert script will be launch with nmap. 
 
@@ -85,7 +85,7 @@ The ftp-vuln-cve2010-4221 script checks for a stack-based buffer overflow in the
 
 If the vulns module has been launched, we entered in the next condition :
 
-![Cegabox Module](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-module-vulns.png)
+![Cegabox Module](./img/cegabox-vulnerability-module-vulns.png)
 
 If the CVE-Tab has at the minimum one CVE, we link that CVE with de NVD Nist database to get the CVE file that has all the informations.
 Once opened, we create our variable that will contain the Vulnerability class and we load into another variable our json file.
@@ -98,11 +98,11 @@ Then we create the link between the host, the service (if it exist) and the vuln
 
 This is the Vulnerability class.
 
-![Cegabox Class](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-class.png)
+![Cegabox Class](./img/cegabox-vulnerability-class.png)
 
 We initialize the variable with None.
 
-![Cegabox Class](https://cebago.github.io/Cegabox/img/cegabox-vulnerability-class-savevuln.png)
+![Cegabox Class](./img/cegabox-vulnerability-class-savevuln.png)
 
 Then we enter in the saveVuln function.
 

@@ -17,8 +17,8 @@ The *Cegabox* database is created upon those models:
 
 #### MCD
 
-![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-MCD.png)
+![Cegabox Infrastructure](./img/cegabox-MCD.png)
 
 #### MLD
 
-![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-MLD.png)
+![Cegabox Infrastructure](./img/cegabox-MLD.png)

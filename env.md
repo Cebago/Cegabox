@@ -17,7 +17,7 @@ For this project, you can find multiples services hosted on the host or inside s
 
 We have decided to separate our project infrastructure accordingly to the image below.
 
-![Cegabox Infrastructure](https://cebago.github.io/Cegabox/img/cegabox-infra.svg)
+![Cegabox Infrastructure](./img/cegabox-infra.svg)
 
 In order to help our customers, we have an interface designed in Electron to make our Cegabox controlable directly. From this interface, you can run get the IP address of your box to be sure to access the web administration interface.
 
@@ -25,7 +25,7 @@ In order to help our customers, we have an interface designed in Electron to mak
 
 The following network diagram represents how the containers are connected over internal networks.
 
-![Cegabox-Flow-Chart](https://cebago.github.io/Cegabox/img/cegabox-flow-chart.svg)
+![Cegabox-Flow-Chart](./img/cegabox-flow-chart.svg)
 
 ### Used technologies
 

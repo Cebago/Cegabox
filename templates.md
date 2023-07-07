@@ -55,4 +55,4 @@ And the big parts it's that you can select the module of you template.
 
 ### Modify templates
 
-You can only modify your templates and not theses by default.
+You can only modify your templates and not those imported by default.
