@@ -20,7 +20,7 @@ The first time your *Cegabox* boot, you should login whith the following credent
 
 WARNING ! You should change the password just after the first boot to be sure to keep control of the *Cegabox*
 
-![Cegabox Ports](https://cebago.github.io/Cegabox/img/cegabox-password.png)
+![Cegabox Password](https://cebago.github.io/Cegabox/img/cegabox-password.png)
 
 ### Give rigths to users
 
