@@ -21,8 +21,8 @@ We have decided to separate our project infrastructure accordingly to the image 
 
 In order to help our customers, we have an interface designed in Electron to make our Cegabox controlable directly. From this interface, you can run get the IP address of your box to be sure to access the web administration interface.
 
-### Flow chart
+### Network Diagram
 
-The following flow chart represents how the containers are connected over internal networks.
+The following network diagram represents how the containers are connected over internal networks.
 
 ![Cegabox-Flow-Chart](https://cebago.github.io/Cegabox/img/cegabox-flow-chart.svg)
