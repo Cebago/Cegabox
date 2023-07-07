@@ -26,50 +26,56 @@
 
 In this list, you can find all the reports shared to you, download them in a JSON file. You have also the possibility to preview the report you want and see by this way an analysis of it.
 
-![Cegabox Reports Reader](https://cebago.github.io/Cegabox/img/cegabox-reports-reader.png)
+![Cegabox Reports Reader](./img/cegabox-reports-reader.png)
 
 #### Contributor & Administrator
 
 In this list, you can find all the reports shared to you, download them in a JSON file and share them with other users which have to "Reader" role. You have also the possibility to preview the report you want and see by this way an analysis of it.
 
-![Cegabox Reports Reader](https://cebago.github.io/Cegabox/img/cegabox-reports-notReader.png)
+![Cegabox Reports Reader](./img/cegabox-reports-notReader.png)
 
 ### Report preview
 
 In the second main part of your screen, you could see the content of the report and the analysis made of it.
 
+### Report parameters
+
+In this section about scan data, you will find all the parameters that you set up when you were creating your scan.
+
+![Cegabox Reports parameters section](./img/cegabox-reports-params.png)
+
 #### Report resume
 
 In the first section of the report, you could find a reminder of what the scan detected, like the hosts, the ports and, of course, the vulnerabilities.
 
-![Cegabox Reports vulnerability section](https://cebago.github.io/Cegabox/img/cegabox-reports-sectionVuln.png)
+![Cegabox Reports vulnerability section](./img/cegabox-reports-sectionVuln.png)
 
 #### Criticity chart
 
 In a second section, you will find chart which is highlighting for each hosts what are its vulnerabilities, group by criticity.
 
-![Cegabox Reports criticity chart](https://cebago.github.io/Cegabox/img/cegabox-reports-graphCriticity.png)
+![Cegabox Reports criticity chart](./img/cegabox-reports-graphCriticity.png)
 
 #### Network topology
 
 In the third section of the report, you could finda network topology based on the hosts responding on your network
 
-![Cegabox Reports network topology](https://cebago.github.io/Cegabox/img/cegabox-reports-networkTopology.png)
+![Cegabox Reports network topology](./img/cegabox-reports-networkTopology.png)
 
 #### List of vulnerabilities
 
 In this section, you will find the list of all vulnerabilities detected on your infrastructure.
 
-![Cegabox Reports list vulnerabilities](https://cebago.github.io/Cegabox/img/cegabox-reports-listVulns.png)
+![Cegabox Reports list vulnerabilities](./img/cegabox-reports-listVulns.png)
 
 #### List of hosts
 
 In this section, you will find the list of all hosts detected on your infrastructure.
 
-![Cegabox Reports list hosts](https://cebago.github.io/Cegabox/img/cegabox-reports-listHosts.png)
+![Cegabox Reports list hosts](./img/cegabox-reports-listHosts.png)
 
 #### List of ports
 
 In this section, you will find the list of all ports detected on your infrastructure.
 
-![Cegabox Reports list ports](https://cebago.github.io/Cegabox/img/cegabox-reports-listPorts.png)
+![Cegabox Reports list ports](./img/cegabox-reports-listPorts.png)
