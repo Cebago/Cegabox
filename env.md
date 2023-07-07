@@ -40,3 +40,6 @@ To complete this project, we used some commons tools and technologies :
 - PHP 8
 - JS/Ajax/HTML
 - Raspberry PI 4
+- Nginx:1.22
+- Adminer:4.7
+- Httpd:2.4.53
