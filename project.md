@@ -13,14 +13,18 @@
 
 ## Who are we ?
 
-We are a group of 3 students in cybersecurity in ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
+[@batmine3](https://github.com/batmine3), [@snatchie](https://github.com/snatchie) & 
+[@Pranksous](https://github.com/Pranksous), three strudents 3 students in cybersecurity in ESGI school. We have formed the Cebago TEAM which is our Github organisation for all of our school projects.
 
 ## Why this project?
 
-We have choosen this project because it's important to us to work in cybersecurity.
 
-## Objectives ?
+We think it's important to give all businesses access to the possibility of securing their infrastructure. That's why we've built a complete, turnkey solution, including an extensive list of features.
 
+## Features ?
+
+![features](/img/cegabox-features.png)
+- 
 - Scan network
 - Detect different types of vulnerabilities:
   - Bad versions of services
